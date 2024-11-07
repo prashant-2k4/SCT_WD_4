@@ -10,7 +10,10 @@ body {
     justify-content: center;
     min-height: 100vh;
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-image: url(todo.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 .todo-app {
